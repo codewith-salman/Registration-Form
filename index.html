@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body>
+    <div align="center">
+        <form action="" method="post">
+            <fieldset>
+                <h1>Student Registration Form</h1>
+            <label for="firstname">First Name</label>   <input type="text" placeholder="Enter Your Name"><br><br>
+            <label for="secondname">Father Name</label>   <input type="text" placeholder="Enter Your Father Name"><br><br>
+            <label for="username">Username</label>  <input type="text" placeholder="Enter Username"><br><br>
+            <label for="email">E-Mail</label>   <input type="email" placeholder="Enter Your E-Mail"><br><br>
+            <label for="password">Password</label>  <input type="password" placeholder="Enter Your Password"><br><br>
+            <label for="password">Confirm Password</label>  <input type="password" placeholder="Confirm Your Password"><br><br>
+            <label for="gender">Gender</label>  <input type="radio" name="gender" id="male"><label for="male">Male</label><input type="radio" name="gender" id="female"><label for="female">Female</label><br><br>
+            <label for="hobby">Hobbies</label>    <input type="checkbox" name="hobby" id="music"><label for="music">Music</label><input type="checkbox" name="hobby" id="football"><label for="football">Football</label><br><br>
+            <label for="country">Country</label>
+                                    <select name="" id="">
+                                        <option value="">America</option>
+                                        <option value="">Brazil</option>
+                                        <option value="">China</option>
+                                        <option value="">Pakistan</option>
+                                        <option value="">India</option>
+                                    </select><br><br>
+            <label for="city">City</label>
+                                    <select name="" id="">
+                                        <optgroup label="Punjab">
+                                            <option value="">Lahore</option>
+                                            <option value="">Multan</option>
+                                            <option value="">Islamabad</option>
+                                            <option value="">Faislabad</option>
+                                        </optgroup>
+                                        <optgroup label="Sindh">
+                                            <option value="">Karachi</option>
+                                            <option value="">Malam Jaba</option>
+                                            <option value="">Ludhiana</option>
+                                            <option value="">Kotii</option>
+                                        </optgroup>
+                                    </select><br><br>
+            <label>State</label>    <input list="state">
+                                        <datalist id="state">
+                                            <option value="Chowk Shah Abbas"></option>
+                                            <option value="Chowk Kumhara"></option>
+                                            <option value="Chowk Double Phattak"></option>
+                                            <option value="Dehli Gate"></option>
+                                            <option value="Dollat Gate"></option>
+                                        </datalist><br><br>
+            <label for="message">Why You Choose Us</label>  <textarea name="message" id="" cols="30" rows="10"></textarea><br><br>
+            <label for="image">Submit Your Certifications</label>    <input type="image"><br><br>
+            <input type="submit" value="save">
+            <input type="reset" value="reset">
+        </fieldset>
+        </form>
+    </div>
+</body>
+</html>
