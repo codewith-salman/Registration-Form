@@ -23,7 +23,7 @@
 
 <img src="image/screenshot.PNG" alt="Registration Form" width="700"/>
 
-This is my second project in HTML and basic styling concepts, and I think in the future I can raise the bar...
+This is my second project in HTML created a Registration From to get data from Users and use it for the late purposes....
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
