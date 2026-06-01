@@ -54,8 +54,6 @@ Perfect for:
 - Academic projects  
 - Frontend portfolio starters  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -66,8 +64,6 @@ Perfect for:
 - Lightweight and fast  
 - Easy to customize and extend  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -76,8 +72,6 @@ This project is built using:
 
 - **HTML5**
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🚀 Live Demo
@@ -85,8 +79,6 @@ This project is built using:
 Check out the deployed project here:
 
 👉 **https://registration-form-iota-steel.vercel.app/**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
